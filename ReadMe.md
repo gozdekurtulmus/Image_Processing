@@ -1,5 +1,5 @@
 
-## Exercise 1 Color Support for theceng391::ImageClass
+## Exercise 1 Color Support 
 
 - Add an integer member fieldmnchannelsand a corresponding pa-
     rameter to the constructor that stores the number of channels per
